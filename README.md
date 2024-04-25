@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,java,html,css,tailwind,nodejs,cs,aws,c,figma,mysql,django,git,github,githubactions,express,kotlin,prisma,postgres,sklearn,tensorflow,pytorch,pkl,opencv,selenium,mongodb,androidstudio,php,jquery,flask,ubuntu,sass,linux,gcp,discord,selenium,bootstrap,materialui,sentry,dynamodb,firebase,wordpress,gradle,postman,raspberrypi,r,anaconda,eclipse,visualstudio,vscode,pycharm,clion,idea,ps,ai,ae" />
 </a>
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px/></picture><b> Github Stats</b>
+## <picture><img src="stats.gif" width=30px/></picture><b> Github Stats</b>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=towaquimbayo&theme=tokyonight_duo" alt="Towa Quimbayo's GitHub Streaks" height="230px" />
 </div>
@@ -48,13 +48,13 @@
   <img alt="Towa Quimbayo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaquimbayo&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="230px" />
 </div>
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px/></picture><b> GitHub Activity Graph</b>
+## <picture><img src="stats.gif" width=30px/></picture><b> GitHub Activity Graph</b>
 <div align="center">
   
 [![Towa Quimbayo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=towaquimbayo&bg_color=1a1b27&color=70a5fd&line=628fdb&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=30px/></picture><b> GitHub Trophies</b>
+## <picture><img src="stats.gif" width=30px/></picture><b> GitHub Trophies</b>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=towaquimbayo&layout=compact&theme=tokyonight&column=5&margin-w=15&margin-h=15" alt="Towa Quimbayo's GitHub Trophies" />
