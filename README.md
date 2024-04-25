@@ -31,7 +31,7 @@
 - :boom: You can visit [my portfolio website here](https://towaquimbayo.com).
 - :mailbox: Feel free to reach me out at **towacurtis@hotmail.com**
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px/></picture><b> Languages, Skills, and Technolgies</b>
+## <picture><img src="skills.gif" width=30px/></picture><b> Languages, Skills, and Technolgies</b>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,java,html,css,tailwind,nodejs,cs,aws,c,figma,mysql,django,git,github,githubactions,express,kotlin,prisma,postgres,sklearn,tensorflow,pytorch,pkl,opencv,selenium,mongodb,androidstudio,php,jquery,flask,ubuntu,sass,linux,gcp,discord,selenium,bootstrap,materialui,sentry,dynamodb,firebase,wordpress,gradle,postman,raspberrypi,r,anaconda,eclipse,visualstudio,vscode,pycharm,clion,idea,ps,ai,ae" />
 </a>
