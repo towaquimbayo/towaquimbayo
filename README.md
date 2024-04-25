@@ -20,7 +20,7 @@
   <picture><img src="github-towaquimbayo-readme.gif" width="300px"/></picture>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=30px/></picture><b> About me</b>
+## <picture><img src="about.gif" width=30px/></picture><b> About me</b>
 - :computer: I am a diligent and result-driven Full-Stack `Web and Software Developer` with 3+ years of experience and a fervent passion for crafting exceptional digital experiences.
 - :school: A recent `BCIT` graduate from [Computer Systems Technology](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) and [New Media Design and Web Development](https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/).
 - :1st_place_medal: YVR Smart Airport 2024 Hackathon Winner as Team `Ora`, Project `Baaj`.
