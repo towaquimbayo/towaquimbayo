@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Diligent+Software+Developer;Meticulous+Web+Developer;YVR+2024+Hackathon+Winner;Expert+On+Frontend;Expert+on+Backend;Always+Learning,+Looking+For+New+Challenges" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Diligent+Software+Developer;Meticulous+Web+Developer;YVR+2024+Hackathon+Winner;3x+Hackathon+Winner;Expert+On+Frontend;Expert+on+Backend;Always+Learning,+Looking+For+New+Challenges" />
   </a>
 </p>
 <div align="center">
@@ -23,8 +23,9 @@
 ## <picture><img src="about.gif" width=30px/></picture><b> About me</b>
 - :computer: I am a diligent and result-driven Full-Stack `Web and Software Developer` with 3+ years of experience and a fervent passion for crafting exceptional digital experiences.
 - :school: A recent `BCIT` graduate from [Computer Systems Technology](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) and [New Media Design and Web Development](https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/).
-- :1st_place_medal: YVR Smart Airport 2024 Hackathon Winner as Team `Ora`, Project `Baaj`.
-- :trophy: QDS Hacks 2024 3rd Place Winner as Team `Ora`.
+- :1st_place_medal: YVR Smart Airport 2024 Hackathon 1st Place Winner as Team `Ora`, Project `Baaj`.
+- :1st_place_medal: Beeloud and Build AI 2024 Hackathon 1st Place Winner and Most Impactful Award as Team `KindSettle`.
+- :trophy: QDS Hackathon 2024 3rd Place Winner as Team `Ora`.
 - :student: I have a keen interest in cloud computing and machine learning. So, I'm learning `AWS` and `Predictive Modeling`.
 - :nerd_face: Always `learning new things` and looking for `new challenges`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [my resume](https://towaquimbayo.com/img/Resume.pdf).
