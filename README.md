@@ -39,6 +39,7 @@
 
 ## <picture><img src="stats.gif" width=30px/></picture><b> Github Stats</b>
 <div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=towaquimbayo&theme=tokyonight" alt="GitHub Streaks" height="230px" /></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=towaquimbayo&theme=tokyonight" alt="GitHub Streak" height="230px" /></a>
 </div>
 <br/>
