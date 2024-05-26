@@ -39,7 +39,7 @@
 
 ## <picture><img src="stats.gif" width=30px/></picture><b> Github Stats</b>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=towaquimbayo&theme=tokyonight" alt="GitHub Streaks" height="230px" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=towaquimbayo&theme=tokyonight" alt="GitHub Streaks" height="230px"/></a>
 </div>
 <br/>
 <div align="center">
