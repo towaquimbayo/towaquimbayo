@@ -39,15 +39,15 @@
 
 ## <picture><img src="stats.gif" width=30px/></picture><b> Github Stats</b>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=towaquimbayo&theme=tokyonight" alt="GitHub Streaks" height="230px"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=towaquimbayo&theme=tokyonight" alt="GitHub Streaks" width="600px"/></a>
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Towa Quimbayo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=towaquimbayo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img alt="Towa Quimbayo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=towaquimbayo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="250px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Towa Quimbayo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaquimbayo&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="230px" />
+    <img alt="Towa Quimbayo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaquimbayo&langs_count=15&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="250px" />
   </a>
 </div>
 
