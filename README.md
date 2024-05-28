@@ -44,10 +44,10 @@
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Towa Quimbayo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=towaquimbayo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="250px"/>
+    <img alt="Towa Quimbayo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=towaquimbayo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Towa Quimbayo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaquimbayo&langs_count=15&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="250px" />
+    <img alt="Towa Quimbayo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaquimbayo&langs_count=15&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="200px" />
   </a>
 </div>
 
