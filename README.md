@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/towaquimbayo" target="_blank">
+  <a href="https://www.linkedin.com/in/towa-quimbayo/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=1e77b5&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
   </a>
   <a href="https://towaquimbayo.com" target="_blank">
