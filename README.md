@@ -46,7 +46,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Towa Quimbayo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=towaquimbayo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="600px"/>
+    <img alt="Towa Quimbayo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=towaquimbayo&show_icons=true&locale=en&theme=tokyonight&layout=compact&include_all_commits=true" width="600px"/>
   </a>
 </div>
 <br/>
