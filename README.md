@@ -52,7 +52,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Towa Quimbayo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaquimbayo&langs_count=15&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="300px" />
+    <img alt="Towa Quimbayo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaquimbayo&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350px" />
   </a>
 </div>
 
