@@ -32,7 +32,7 @@
 - :nerd_face: Always `learning new things` and looking for `new challenges`.
 - :thinking: I’m currently open for a new `job opportunity`, this is **[my resume](https://towaquimbayo.com/img/Resume.pdf)**.
 - :boom: You can visit **[my portfolio website here](https://towaquimbayo.com)**.
-- :mailbox: Feel free to reach me out at **towacurtis@hotmail.com**
+- :mailbox: Feel free to reach me out at **towacurtis@hotmail.com**.
 
 ## <picture><img src="skills.gif" width=30px/></picture><b> Languages, Skills, and Technolgies</b>
 <a href="https://skillicons.dev">
