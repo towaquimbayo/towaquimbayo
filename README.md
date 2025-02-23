@@ -36,7 +36,7 @@
 
 ## <picture><img src="skills.gif" width=30px/></picture><b> Languages, Skills, and Technolgies</b>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,java,html,css,tailwind,nodejs,cs,aws,c,figma,mysql,django,git,github,githubactions,express,kotlin,prisma,postgres,sklearn,tensorflow,pytorch,pkl,opencv,selenium,mongodb,androidstudio,php,jquery,flask,ubuntu,sass,linux,gcp,discord,selenium,bootstrap,materialui,sentry,dynamodb,firebase,wordpress,gradle,postman,raspberrypi,r,anaconda,eclipse,visualstudio,vscode,pycharm,clion,idea,ps,ai,ae" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,java,html,css,tailwind,nodejs,cs,aws,c,figma,mysql,django,git,github,githubactions,express,kotlin,prisma,postgres,sklearn,tensorflow,pytorch,opencv,selenium,mongodb,php,jquery,flask,ubuntu,sass,linux,gcp,selenium,bootstrap,materialui,sentry,dynamodb,firebase,wordpress,raspberrypi,r" />
 </a>
 
 ## <picture><img src="stats.gif" width=30px/></picture><b> Github Stats</b>
