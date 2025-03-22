@@ -23,16 +23,13 @@
 </div>
 
 ## <picture><img src="about.gif" width=30px/></picture><b> About me</b>
-- :computer: I am a diligent and result-driven Full-Stack `Web and Software Developer` with 3+ years of experience and a fervent passion for crafting exceptional digital experiences.
-- :school: A recent `BCIT` graduate from **[Computer Systems Technology](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/)** and **[New Media Design and Web Development](https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/)**.
+- :computer: I'm a result-driven Full-Stack `Web and Software Developer` with 3+ years of experience.
+- :school: A **[BSc in Applied Computer Science](https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/)** student at BCIT.
+- :mortar_board: A recent `BCIT` graduate from **[Computer Systems Technology](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/)** and **[New Media Design and Web Development](https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/)**.
 - :1st_place_medal: YVR Smart Airport 2024 Hackathon 1st Place Winner as Team `Ora`, Project `Baaj`.
 - :1st_place_medal: Beeloud and Build AI 2024 Hackathon 1st Place Winner and Most Impactful Award as Team `KindSettle`.
-- :trophy: QDS Hackathon 2024 3rd Place Winner as Team `Ora`.
-- :student: I have a keen interest in cloud computing and machine learning. So, I'm learning `AWS` and `Predictive Modeling`.
-- :nerd_face: Always `learning new things` and looking for `new challenges`.
-- :thinking: I’m currently open for a new `job opportunity`, this is **[my resume](https://towaquimbayo.com/img/Resume.pdf)**.
+- :thinking: I’m currently open to new `opportunities`, this is **[my resume](https://towaquimbayo.com/img/Resume.pdf)**.
 - :boom: You can visit **[my portfolio website here](https://towaquimbayo.com)**.
-- :mailbox: Feel free to reach me out at **towacurtis@hotmail.com**.
 
 ## <picture><img src="skills.gif" width=30px/></picture><b> Languages, Skills, and Technolgies</b>
 <a href="https://skillicons.dev">
@@ -65,6 +62,6 @@
 ## <picture><img src="stats.gif" width=30px/></picture><b> GitHub Trophies</b>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=towaquimbayo&layout=compact&theme=tokyonight&column=5&margin-w=15&margin-h=15" alt="Towa Quimbayo's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=towaquimbayo&layout=compact&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Towa Quimbayo's GitHub Trophies" />
   </a>
 </div>
